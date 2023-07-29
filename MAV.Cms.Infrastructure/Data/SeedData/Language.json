@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "Name": "Türkçe",
+    "Culture": "tr-TR",
+    "FlagIcon": "tr",
+    "isRTL": false,
+    "Activity": true,
+    "isPrimary": true,
+    "DisplayOrder": 0
+  },
+  {
+    "Id": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+    "Name": "English",
+    "Culture": "en-US",
+    "FlagIcon": "uk",
+    "isRTL": false,
+    "Activity": true,
+    "isPrimary": false,
+    "DisplayOrder": 1
+  },
+  {
+    "Id": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+    "Name": "Deutsch",
+    "Culture": "de-DE",
+    "FlagIcon": "de",
+    "isRTL": false,
+    "Activity": true,
+    "isPrimary": false,
+    "DisplayOrder": 2
+  }
+]

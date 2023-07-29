@@ -1,0 +1,2497 @@
+[
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "CustomVar.GroupName",
+    "Translation": "Grup Adı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "CustomVar.KeyName",
+    "Translation": "Anahtar Kelime"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "CustomVar.ControllerTitle",
+    "Translation": "Özel Değişken"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "CustomVar.ControllerTitlePlural",
+    "Translation": "Özel Değişkenler"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Language.ControllerTitle",
+    "Translation": "Dil"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Language.Culture",
+    "Translation": "Dil Kodu"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Language.FlagIcon",
+    "Translation": "Bayron Ikon"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Language.isRTL",
+    "Translation": "Sağdan Sola Mı?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Activity",
+    "Translation": "Aktif Mi?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Language.isPrimary",
+    "Translation": "Birincil Mi?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Language.ControllerTitlePlural",
+    "Translation": "Diller"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Translation.ControllerTitle",
+    "Translation": "Çeviri"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Translation.ControllerTitlePlural",
+    "Translation": "Çeviriler"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Name",
+    "Translation": "Adı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Description",
+    "Translation": "Açıklama"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.DisplayOrder",
+    "Translation": "Görünecek Sıra"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.General",
+    "Translation": "Genel"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.OtherLanguages",
+    "Translation": "Diğer Diller"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.ControllerTitle",
+    "Translation": "Menü"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.ControllerTitlePlural",
+    "Translation": "Menüler"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Status",
+    "Translation": "Durum"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Action",
+    "Translation": "İşlem"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.ParentMenu",
+    "Translation": "Üst Menü"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.IsBackend",
+    "Translation": "Admin Menüsü Mü?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.RouterLink",
+    "Translation": "Router Link"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.RouterQueryParameter",
+    "Translation": "Router Link Parametreleri ({test:4} şeklinde kullanılır)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.MenuPosition",
+    "Translation": "Menü Pozisyonu"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.PageType",
+    "Translation": "Sayfa Tipi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.ParentMenu",
+    "Translation": "Üst Menü"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.ControllerTitle",
+    "Translation": "Sayfa"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.Icon",
+    "Translation": "İkon"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.ChooseFile",
+    "Translation": "Dosya Seçiniz"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.Info",
+    "Translation": "İnfo"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Created",
+    "Translation": "{0} Başarıyla Oluşturuldu"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Successfully",
+    "Translation": "İşlem Başarılı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.UnSuccessfully",
+    "Translation": "İşlem Başarısız"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Yes",
+    "Translation": "Evet"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.No",
+    "Translation": "Hayır"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Active",
+    "Translation": "Aktif"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Passive",
+    "Translation": "Pasif"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Dashboard",
+    "Translation": "Anasayfa"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.ParentPage",
+    "Translation": "Üst Sayfa"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.ParentPage",
+    "Translation": "Üst Sayfa"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Category.ControllerTitle",
+    "Translation": "Kategori"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.Sumamry",
+    "Translation": "Özet"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.Content",
+    "Translation": "İçerik"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.SeoAre",
+    "Translation": "Seo İçerikleri"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.OgTitle",
+    "Translation": "Başlık (Küçük harf ve boşluk yerine -)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.OgType",
+    "Translation": "Tip (article-book-profile-website vb.)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.OgDescription",
+    "Translation": "Açıklama"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.OgKeywords",
+    "Translation": "Anahtar Kelimeler (küçük harf ve ingilizce karakterler önerilir)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.OgImagePath",
+    "Translation": "Seo Resmi (Tüm cihazlarda optimum netlik için 1,91:1 oran,1200x630)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.HeaderPath",
+    "Translation": "Üst Kapak Resmi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.BackgroundPath",
+    "Translation": "Arkaplan Resmi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.AreYouSureToDelete",
+    "Translation": "{0} silmek istediğinize emin misiniz?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Approvement",
+    "Translation": "Onaylama İşlemi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Slide.ControllerTitle",
+    "Translation": "Slayt"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Slide.ControllerTitlePlural",
+    "Translation": "Slaytlar"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.CurrentPageReportTemplate",
+    "Translation": "{totalRecords} kaydın {first} ile {last} arası gösteriliyor"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Choose",
+    "Translation": "{0} seçiniz"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Slide.IsHome",
+    "Translation": "Anasayfa Slaytı Mı?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Slide.SlidePosition",
+    "Translation": "Slayt Konumu"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Account.InvalidPassowrd",
+    "Translation": "Parola Hatalı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.OpenOgTypes",
+    "Translation": "Tipleri İnceleyin"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Dashboard.ControllerTitle",
+    "Translation": "Anasayfa"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Email",
+    "Translation": "E-Posta"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.EmailOrUserName",
+    "Translation": "E-Posta veya Kullanıcı Adı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Password",
+    "Translation": "Şifre"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Account.RememberMe",
+    "Translation": "Şifre"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Account.ForgetPassword",
+    "Translation": "Şifremi Unuttum"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Account.Login",
+    "Translation": "Giriş Yap"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.TestimonailSlide",
+    "Translation": "Müşteri Yorumları Slaytı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.SupportMail",
+    "Translation": "Destek Maili (Bilgilendirme mailleri buraya gelecek)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ControllerTitle",
+    "Translation": "Genel Ayarlar"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Choose",
+    "Translation": "{0} Seçiniz"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.SeoArea",
+    "Translation": "Seo Bilgileri"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.HomeOgTitle",
+    "Translation": "Anasayfa Og Başlık"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.HomeOgDescription",
+    "Translation": "Anasayfa Og Açıklama"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ContactOgTitle",
+    "Translation": "İletişim Sayfası Og Başlık"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ContactAddress",
+    "Translation": "Adres"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.Ico",
+    "Translation": "Ico"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.Logo",
+    "Translation": "Logo"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ContactOgDescription",
+    "Translation": "İletişim Sayfası Og Açıklama"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.AboutUs",
+    "Translation": "Hakkımızda Bilgisi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ContactPhone",
+    "Translation": "İletişim Telefon Numarası"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ContactWhatsApp",
+    "Translation": "İletişim WhatsApp Telefon Numarası"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ContactPage",
+    "Translation": "İletişim Sayfası Bilgileri"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.GoogleMapUrl",
+    "Translation": "Google Map URL"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.HomeOgImage",
+    "Translation": "Anasayfa SEO Resmi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ContactOgImage",
+    "Translation": "İletişim Sayfası SEO Resmi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Save",
+    "Translation": "Kaydet"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Cancel",
+    "Translation": "İptal"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.NameSurname",
+    "Translation": "Ad Soyad"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.UserName",
+    "Translation": "Kullanıcı Adı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Telefon Numarası"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Telefon Numarası"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.PasswordConfirm",
+    "Translation": "Telefon Numarası"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.ProfileImage",
+    "Translation": "Profil Resmi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.Roles",
+    "Translation": "Kullanıcı Rolü"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.ControllerTitle",
+    "Translation": "Kullanıcı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.ControllerTitlePlural",
+    "Translation": "Kullanıcılar"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "AppUser.PasswordsNotMatching",
+    "Translation": "Şifreler Uyuşmuyor"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.HomeInfoArea",
+    "Translation": "Anasayfa Bilgi Alanı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.InfoDescription",
+    "Translation": "Açıklama"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.InfoTitle",
+    "Translation": "Başlık"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.InfoIcon",
+    "Translation": "İkon"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.Projects",
+    "Translation": "Projeler"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.YearsOfExperienced",
+    "Translation": "Tecrübe Yılı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.ProjectDone",
+    "Translation": "Biten iş/ proje sayısı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.HappyCustomer",
+    "Translation": "Müşteri Sayısı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SlideMedia.LinkPage",
+    "Translation": "Yönlendirilecek Sayfa"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SlideMedia.ButtonText",
+    "Translation": "Buton Yazısı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SlideMedia.ButtonStyle",
+    "Translation": "Buton Stili"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SlideMedia.TitleTextStyle",
+    "Translation": "Başlık Yazı Stili"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SlideMedia.SummaryTextStyle",
+    "Translation": "Özet Yazı Stili"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SlideMedia.Title",
+    "Translation": "Başlık"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SlideMedia.Summary",
+    "Translation": "Özet"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.CustomerFeedBack",
+    "Translation": "Müşterilerimizden Dönüşler"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.YearsOfExperienced",
+    "Translation": "Yıllık Tecrübe"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.ProjectDone",
+    "Translation": "Tamamlanan Proje"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.HappyCustomer",
+    "Translation": "Mutlu Müşteri"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Footer.HaveAQuestion",
+    "Translation": "Sorunuz mu var?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.Phone",
+    "Translation": "Telefon"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.Address",
+    "Translation": "Adres"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.Summary",
+    "Translation": "Herhangi bir sorunuz varsa lütfen bize mesaj göndermekten çekinmeyin"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.SendMessage",
+    "Translation": "Mesaj Gönder"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.Subject",
+    "Translation": "Konu"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.YourEmail",
+    "Translation": "E-Posta adresiniz"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.YourName",
+    "Translation": "Adınız"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.YourSurname",
+    "Translation": "Soyadınız"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.YourPhoneNumber",
+    "Translation": "Telefon Numaranız"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.SelectSupportTicketType",
+    "Translation": "Konu Seçiniz"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.Message",
+    "Translation": "Mesaj"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Menu.Slug",
+    "Translation": "Menü isminin url de görünecek hali (otomatik oluşturulur benzersiz olmalıdır)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.Slug",
+    "Translation": "Sayfa isminin url de görünecek hali (otomatik oluşturulur benzersiz olmalıdır)"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.DataReceivedSuccessfully",
+    "Translation": "Veri Başarıyla Getirildi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Required",
+    "Translation": "{0} alanı zorunludur!"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Updated",
+    "Translation": "{0} Güncellendi!"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Deleted",
+    "Translation": "{0} Silindi!"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Created",
+    "Translation": "{0} Eklendi!"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.ControllerTitle",
+    "Translation": "İletişim"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.LinkedInUrl",
+    "Translation": "LinkedIn Url"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.FacebookUrl",
+    "Translation": "Facebook Url"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.InstagramUrl",
+    "Translation": "Instagram Url"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.RecentProducts",
+    "Translation": "Son Ürünler"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Page.RecentBlogs",
+    "Translation": "En Yeni Bloglar"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.Send",
+    "Translation": "Gönder"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.ContactUs",
+    "Translation": "İletişime Geçin"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.TicketReceived",
+    "Translation": "Talebiniz alındı!"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Contact.TicketNotReceived",
+    "Translation": "Talebiniz alınamadı lütfen daha sonra tekrar deneyiniz!"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "GeneralSettings.LatestProjectPage",
+    "Translation": "Anasayfa En Yeni Ürünler Alanı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.ViewDetail",
+    "Translation": "Detayları Gör"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.LatestProjects",
+    "Translation": "En Yeni {0}"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Home.Blog",
+    "Translation": "Blog"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.NameSurname",
+    "Translation": "Adı Soyadı"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.SearchByName",
+    "Translation": "Ada göre ara"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.SearchByEmail",
+    "Translation": "E-postaya göre ara"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Telefona göre ara"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.ControllerTitle",
+    "Translation": "Destek Bildirimi"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.ControllerTitlePlural",
+    "Translation": "Destek Bildirimleri"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.IsClosed",
+    "Translation": "Kapandı Mı?"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.SupportType",
+    "Translation": "Destek Türü"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.SelectSupportType",
+    "Translation": "Destek Türü Seçiniz"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.Content",
+    "Translation": "Mesaj"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.OpenCount",
+    "Translation": "Açık Destek Bildirimi Sayısı : {0}"
+  },
+  {
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+    "KeyName": "SupportTicket.CloseCount",
+    "Translation": "Kapanan Destek Bildirimi Sayısı : {0}"
+  },
+  {
+    "KeyName": "SupportTicket.OpenCount",
+    "Translation": "Number of Open Support Notifications : {0}",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.CloseCount",
+    "Translation": "Number of Closed Support Notifications: {0}",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.Content",
+    "Translation": "Message",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.SupportType",
+    "Translation": "Support Type",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.SelectSupportType",
+    "Translation": "Select Support Type",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.IsClosed",
+    "Translation": "Is it closed?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.ControllerTitle",
+    "Translation": "Support Notice",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.ControllerTitlePlural",
+    "Translation": "Support Notices",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Search by phone",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.SearchByName",
+    "Translation": "Search by name",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.SearchByEmail",
+    "Translation": "Search by email",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.NameSurname",
+    "Translation": "Name and surname",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.LatestProjects",
+    "Translation": "Latest {0}",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.Blog",
+    "Translation": "blog",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.ViewDetail",
+    "Translation": "See Details",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.TicketNotReceived",
+    "Translation": "Your request could not be received, please try again later!",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.LatestProjectPage",
+    "Translation": "Home Latest Products Area",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.TicketReceived",
+    "Translation": "Your request has been received!",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Send",
+    "Translation": "Send",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.ContactUs",
+    "Translation": "Contact Us",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.RecentBlogs",
+    "Translation": "Latest Blogs",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.InstagramUrl",
+    "Translation": "Instagram Url",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.RecentProducts",
+    "Translation": "Latest Products",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.FacebookUrl",
+    "Translation": "Facebook URL",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.ControllerTitle",
+    "Translation": "Communication",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.LinkedInUrl",
+    "Translation": "LinkedIn URL",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Created",
+    "Translation": "{0} Added!",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Updated",
+    "Translation": "{0} Updated!",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Deleted",
+    "Translation": "{0} Deleted!",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Required",
+    "Translation": "The {0} field is required!",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.Slug",
+    "Translation": "The page name will appear in the url (it should be automatically generated and unique)",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.DataReceivedSuccessfully",
+    "Translation": "Data Retrieved Successfully",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.Slug",
+    "Translation": "The menu name will appear in the url (it should be automatically generated and unique)",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.Message",
+    "Translation": "Message",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.YourPhoneNumber",
+    "Translation": "Your phone number",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.SelectSupportTicketType",
+    "Translation": "Select Subject",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.YourSurname",
+    "Translation": "Your surname",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.YourEmail",
+    "Translation": "E-Mail Address",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.YourName",
+    "Translation": "Your name",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.Subject",
+    "Translation": "Theme",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.SendMessage",
+    "Translation": "Send Message",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.Address",
+    "Translation": "Address",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.Summary",
+    "Translation": "Please feel free to message us if you have any questions.",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Footer.HaveAQuestion",
+    "Translation": "Have a question?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Contact.Phone",
+    "Translation": "Phone",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.HappyCustomer",
+    "Translation": "Happy Customer",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.ProjectDone",
+    "Translation": "Completed Project",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.YearsOfExperienced",
+    "Translation": "Years of Experience",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SlideMedia.Summary",
+    "Translation": "summary",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Home.CustomerFeedBack",
+    "Translation": "Returns From Our Customers",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SlideMedia.Title",
+    "Translation": "Title",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SlideMedia.TitleTextStyle",
+    "Translation": "Title Font Style",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SlideMedia.SummaryTextStyle",
+    "Translation": "Abstract Font Style",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SlideMedia.ButtonStyle",
+    "Translation": "Button Style",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SlideMedia.LinkPage",
+    "Translation": "Page to be redirected",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SlideMedia.ButtonText",
+    "Translation": "Button Text",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.HappyCustomer",
+    "Translation": "The number of customers",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.YearsOfExperienced",
+    "Translation": "Year of Experience",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ProjectDone",
+    "Translation": "Number of completed work/projects",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.Projects",
+    "Translation": "Projects",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.InfoIcon",
+    "Translation": "Icon",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.InfoTitle",
+    "Translation": "Title",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeInfoArea",
+    "Translation": "Home Information Area",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.InfoDescription",
+    "Translation": "Explanation",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.PasswordsNotMatching",
+    "Translation": "Passwords Do Not Match",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.ControllerTitlePlural",
+    "Translation": "Users",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.Roles",
+    "Translation": "User Role",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.ControllerTitle",
+    "Translation": "User",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.ProfileImage",
+    "Translation": "Profile picture",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Phone number",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.PasswordConfirm",
+    "Translation": "Phone number",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Phone number",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.NameSurname",
+    "Translation": "Name surname",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "AppUser.UserName",
+    "Translation": "User name",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Cancel",
+    "Translation": "Cancel",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Save",
+    "Translation": "Save",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeOgImage",
+    "Translation": "Homepage SEO Image",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactOgImage",
+    "Translation": "Contact Page SEO Image",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.GoogleMapUrl",
+    "Translation": "Google Map URL",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactPage",
+    "Translation": "Contact Page Information",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactPhone",
+    "Translation": "Contact Phone Number",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactWhatsApp",
+    "Translation": "Contact WhatsApp Phone Number",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.AboutUs",
+    "Translation": "About Us Information",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.Logo",
+    "Translation": "Logo",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactOgDescription",
+    "Translation": "Contact Page Og Description",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.Ico",
+    "Translation": "ico",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactOgTitle",
+    "Translation": "Contact Page Og Title",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactAddress",
+    "Translation": "Address",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeOgDescription",
+    "Translation": "Home Og Description",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeOgTitle",
+    "Translation": "Home Og Title",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Choose",
+    "Translation": "{0} Select",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.SeoArea",
+    "Translation": "Seo Information",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.ControllerTitle",
+    "Translation": "General Settings",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.TestimonailSlide",
+    "Translation": "Customer Reviews Slide",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "GeneralSettings.SupportMail",
+    "Translation": "Support Email (Information emails will come here)",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Account.Login",
+    "Translation": "Login",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Account.ForgetPassword",
+    "Translation": "I forgot my password",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Password",
+    "Translation": "Password",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Account.RememberMe",
+    "Translation": "Password",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.EmailOrUserName",
+    "Translation": "Email or Username",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Email",
+    "Translation": "Email",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.OpenOgTypes",
+    "Translation": "View Types",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Dashboard.ControllerTitle",
+    "Translation": "Home page",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Account.InvalidPassowrd",
+    "Translation": "Password Incorrect",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Slide.IsHome",
+    "Translation": "Home Slide?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Slide.SlidePosition",
+    "Translation": "Slide Position",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Choose",
+    "Translation": "select {0}",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Slide.ControllerTitlePlural",
+    "Translation": "slides",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.CurrentPageReportTemplate",
+    "Translation": "Showing your {totalRecords} record from {first} to {last}",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Slide.ControllerTitle",
+    "Translation": "Slide",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Approvement",
+    "Translation": "Confirmation Process",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.AreYouSureToDelete",
+    "Translation": "Are you sure you want to delete {0}?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.HeaderPath",
+    "Translation": "Top Cover Image",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.BackgroundPath",
+    "Translation": "Background picture",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.OgImagePath",
+    "Translation": "Seo Image (1.91:1 ratio,1200x630) for optimum clarity on all devices",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.OgDescription",
+    "Translation": "Explanation",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.OgKeywords",
+    "Translation": "Keywords (lowercase and english characters recommended)",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.OgType",
+    "Translation": "Type (article-book-profile-website etc.)",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.OgTitle",
+    "Translation": "Title (Replace lowercase and space -)",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.Content",
+    "Translation": "Contents",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.SeoAre",
+    "Translation": "Seo Contents",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.Sumamry",
+    "Translation": "summary",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Category.ControllerTitle",
+    "Translation": "Category",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.ParentPage",
+    "Translation": "Top Page",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.ParentPage",
+    "Translation": "Top Page",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Dashboard",
+    "Translation": "Home page",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Active",
+    "Translation": "Active",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Passive",
+    "Translation": "Passive",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.No",
+    "Translation": "No",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.UnSuccessfully",
+    "Translation": "Operation Failed",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Yes",
+    "Translation": "Yeah",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Successfully",
+    "Translation": "Transaction Successful",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Created",
+    "Translation": "{0} Created Successfully",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.ChooseFile",
+    "Translation": "Choose File",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.Info",
+    "Translation": "info",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.Icon",
+    "Translation": "Icon",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.ParentMenu",
+    "Translation": "Top Menu",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.ControllerTitle",
+    "Translation": "Page",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Page.PageType",
+    "Translation": "Page Type",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.MenuPosition",
+    "Translation": "Menu Position",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.RouterLink",
+    "Translation": "Router Link",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.RouterQueryParameter",
+    "Translation": "Router Link Parameters (used as {test:4})",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.ParentMenu",
+    "Translation": "Top Menu",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.IsBackend",
+    "Translation": "Admin Menu?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Action",
+    "Translation": "Process",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.ControllerTitlePlural",
+    "Translation": "menus",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Status",
+    "Translation": "Situation",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Menu.ControllerTitle",
+    "Translation": "Menu",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.OtherLanguages",
+    "Translation": "Other Languages",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.DisplayOrder",
+    "Translation": "Rank to appear",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.General",
+    "Translation": "general",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Description",
+    "Translation": "Explanation",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Translation.ControllerTitlePlural",
+    "Translation": "Translations",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Name",
+    "Translation": "First Name",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Translation.ControllerTitle",
+    "Translation": "Translation",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Language.isPrimary",
+    "Translation": "Is it primary?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Language.ControllerTitlePlural",
+    "Translation": "Languages",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Common.Activity",
+    "Translation": "Is it active?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Language.isRTL",
+    "Translation": "Right to Left?",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Language.Culture",
+    "Translation": "Language Code",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Language.FlagIcon",
+    "Translation": "Byron Icon",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "Language.ControllerTitle",
+    "Translation": "Language",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "CustomVar.ControllerTitlePlural",
+    "Translation": "Custom Variables",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "CustomVar.ControllerTitle",
+    "Translation": "Private Variable",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "CustomVar.KeyName",
+    "Translation": "Keyword",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "CustomVar.GroupName",
+    "Translation": "Group Name",
+    "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+  },
+  {
+    "KeyName": "SupportTicket.OpenCount",
+    "Translation": "Anzahl der offenen Support-Benachrichtigungen: {0}",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SupportTicket.CloseCount",
+    "Translation": "Anzahl geschlossener Support-Benachrichtigungen: {0}",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SupportTicket.Content",
+    "Translation": "Nachricht",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SupportTicket.SupportType",
+    "Translation": "Unterstützungstyp",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SupportTicket.SelectSupportType",
+    "Translation": "Wählen Sie den Supporttyp",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SupportTicket.IsClosed",
+    "Translation": "Ist es geschlossen?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SupportTicket.ControllerTitle",
+    "Translation": "Support-Hinweis",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SupportTicket.ControllerTitlePlural",
+    "Translation": "Support-Hinweise",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Per Telefon suchen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.SearchByName",
+    "Translation": "Suche mit Name",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.SearchByEmail",
+    "Translation": "Per E-Mail suchen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.NameSurname",
+    "Translation": "Name und Nachname",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.LatestProjects",
+    "Translation": "Neueste {0}",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.Blog",
+    "Translation": "Blog",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.ViewDetail",
+    "Translation": "Siehe Einzelheiten",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.TicketNotReceived",
+    "Translation": "Ihre Anfrage konnte nicht empfangen werden, bitte versuchen Sie es später noch einmal!",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.LatestProjectPage",
+    "Translation": "Startseite Neueste Produkte Bereich",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.TicketReceived",
+    "Translation": "Ihre Anfrage wurde empfangen!",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Send",
+    "Translation": "Senden",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.ContactUs",
+    "Translation": "Kontaktiere uns",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.RecentBlogs",
+    "Translation": "Neueste Blogs",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.InstagramUrl",
+    "Translation": "Instagram-URL",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.RecentProducts",
+    "Translation": "Neueste Produkte",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.FacebookUrl",
+    "Translation": "Facebook URL",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.ControllerTitle",
+    "Translation": "Kommunikation",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.LinkedInUrl",
+    "Translation": "LinkedIn-URL",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Created",
+    "Translation": "{0} Hinzugefügt!",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Updated",
+    "Translation": "{0} Aktualisiert!",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Deleted",
+    "Translation": "{0} Gelöscht!",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Required",
+    "Translation": "Das {0}-Feld ist erforderlich!",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.Slug",
+    "Translation": "Der Seitenname wird in der URL angezeigt (er sollte automatisch generiert und eindeutig sein)",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.DataReceivedSuccessfully",
+    "Translation": "Daten erfolgreich abgerufen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.Slug",
+    "Translation": "Der Menüname wird in der URL angezeigt (er sollte automatisch generiert und eindeutig sein)",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.Message",
+    "Translation": "Nachricht",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.YourPhoneNumber",
+    "Translation": "Deine Telefonnummer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.SelectSupportTicketType",
+    "Translation": "Betreff auswählen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.YourSurname",
+    "Translation": "Dein Familienname",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.YourEmail",
+    "Translation": "E-Mail-Addresse",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.YourName",
+    "Translation": "Dein Name",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.Subject",
+    "Translation": "Thema",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.SendMessage",
+    "Translation": "Nachricht senden",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.Address",
+    "Translation": "Adresse",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.Summary",
+    "Translation": "Bei Fragen können Sie uns gerne eine Nachricht senden.",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Footer.HaveAQuestion",
+    "Translation": "Eine Frage haben?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Contact.Phone",
+    "Translation": "Telefon",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.HappyCustomer",
+    "Translation": "Zufriedener Kunde",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.ProjectDone",
+    "Translation": "Abgeschlossenes Projekt",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.YearsOfExperienced",
+    "Translation": "Langjährige Erfahrung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.Summary",
+    "Translation": "Zusammenfassung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Home.CustomerFeedBack",
+    "Translation": "Rücksendungen unserer Kunden",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.Title",
+    "Translation": "Titel",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.TitleTextStyle",
+    "Translation": "Titelschriftart",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.SummaryTextStyle",
+    "Translation": "Abstrakter Schriftstil",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.ButtonStyle",
+    "Translation": "Schaltflächenstil",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.LinkPage",
+    "Translation": "Seite soll umgeleitet werden",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.ButtonText",
+    "Translation": "Schaltflächentext",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.HappyCustomer",
+    "Translation": "Die Anzahl der Kunden",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.YearsOfExperienced",
+    "Translation": "Jahr der Erfahrung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ProjectDone",
+    "Translation": "Anzahl abgeschlossener Arbeiten/Projekte",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.Projects",
+    "Translation": "Projekte",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.InfoIcon",
+    "Translation": "Symbol",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.InfoTitle",
+    "Translation": "Titel",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeInfoArea",
+    "Translation": "Startseite Informationsbereich",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.InfoDescription",
+    "Translation": "Erläuterung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.PasswordsNotMatching",
+    "Translation": "Passwörter stimmen nicht überein",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.ControllerTitlePlural",
+    "Translation": "Benutzer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.Roles",
+    "Translation": "Benutzer-Rolle",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.ControllerTitle",
+    "Translation": "Nutzer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.ProfileImage",
+    "Translation": "Profilbild",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Telefonnummer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.PasswordConfirm",
+    "Translation": "Telefonnummer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.PhoneNumber",
+    "Translation": "Telefonnummer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.NameSurname",
+    "Translation": "Vorname Nachname",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "AppUser.UserName",
+    "Translation": "Nutzername",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Cancel",
+    "Translation": "Abbrechen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Save",
+    "Translation": "Speichern",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeOgImage",
+    "Translation": "SEO-Bild der Startseite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactOgImage",
+    "Translation": "SEO-Bild der Kontaktseite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.GoogleMapUrl",
+    "Translation": "Google Map-URL",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactPage",
+    "Translation": "Informationen zur Kontaktseite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactPhone",
+    "Translation": "Kontakt Telefonnummer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactWhatsApp",
+    "Translation": "Kontakt WhatsApp Telefonnummer",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.AboutUs",
+    "Translation": "Über uns Informationen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.Logo",
+    "Translation": "Logo",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactOgDescription",
+    "Translation": "Kontaktseite Og Beschreibung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.Ico",
+    "Translation": "ico",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactOgTitle",
+    "Translation": "Kontaktseite Og Titel",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ContactAddress",
+    "Translation": "Adresse",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeOgDescription",
+    "Translation": "Home Og Beschreibung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.HomeOgTitle",
+    "Translation": "Home OG Titel",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Choose",
+    "Translation": "{0} Auswählen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.SeoArea",
+    "Translation": "SEO-Informationen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.ControllerTitle",
+    "Translation": "Allgemeine Einstellungen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.TestimonailSlide",
+    "Translation": "Kundenrezensionen Folie",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "GeneralSettings.SupportMail",
+    "Translation": "Support-E-Mail (Informations-E-Mails werden hier eingehen)",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Account.Login",
+    "Translation": "Anmeldung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Account.ForgetPassword",
+    "Translation": "Ich habe mein Passwort vergessen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Password",
+    "Translation": "Passwort",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Account.RememberMe",
+    "Translation": "Passwort",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.EmailOrUserName",
+    "Translation": "E-Mail Adresse oder Benutzername",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Email",
+    "Translation": "Email",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.OpenOgTypes",
+    "Translation": "Ansichtstypen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Dashboard.ControllerTitle",
+    "Translation": "Startseite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Account.InvalidPassowrd",
+    "Translation": "Falsches Passwort",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Slide.IsHome",
+    "Translation": "Startseite Folie?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Slide.SlidePosition",
+    "Translation": "Folienposition",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Choose",
+    "Translation": "wählen Sie {0}",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Slide.ControllerTitlePlural",
+    "Translation": "Folien",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.CurrentPageReportTemplate",
+    "Translation": "Anzeige Ihres {totalRecords}-Datensatzes von {first} bis {last}",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Slide.ControllerTitle",
+    "Translation": "Gleiten",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Approvement",
+    "Translation": "Bestätigungsprozess",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.AreYouSureToDelete",
+    "Translation": "Möchten Sie {0} wirklich löschen?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.HeaderPath",
+    "Translation": "Titelbild oben",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.BackgroundPath",
+    "Translation": "Hintergrundbild",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.OgImagePath",
+    "Translation": "Seo Image (1,91: 1-Verhältnis, 1200 x 630) für optimale Klarheit auf allen Geräten",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.OgDescription",
+    "Translation": "Erläuterung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.OgKeywords",
+    "Translation": "Keywords (Kleinbuchstaben und englische Zeichen empfohlen)",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.OgType",
+    "Translation": "Typ (Artikel-Buch-Profil-Website etc.)",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.OgTitle",
+    "Translation": "Titel (Kleinbuchstaben und Leerzeichen ersetzen -)",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.Content",
+    "Translation": "Inhalt",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.SeoAre",
+    "Translation": "SEO-Inhalte",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.Sumamry",
+    "Translation": "Zusammenfassung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Category.ControllerTitle",
+    "Translation": "Kategorie",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.ParentPage",
+    "Translation": "Oberste Seite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.ParentPage",
+    "Translation": "Oberste Seite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Dashboard",
+    "Translation": "Startseite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Active",
+    "Translation": "Aktiv",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Passive",
+    "Translation": "Passiv",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.No",
+    "Translation": "Nein",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.UnSuccessfully",
+    "Translation": "Operation fehlgeschlagen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Yes",
+    "Translation": "ja",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Successfully",
+    "Translation": "Transaktion Erfolgreich",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Created",
+    "Translation": "{0} Erfolgreich erstellt",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.ChooseFile",
+    "Translation": "Datei wählen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.Info",
+    "Translation": "die Info",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.Icon",
+    "Translation": "Symbol",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.ParentMenu",
+    "Translation": "Hauptmenü",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.ControllerTitle",
+    "Translation": "Buchseite",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Page.PageType",
+    "Translation": "Seitentyp",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.MenuPosition",
+    "Translation": "Menüposition",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.RouterLink",
+    "Translation": "Router-Link",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.RouterQueryParameter",
+    "Translation": "Router-Link-Parameter (verwendet als {test:4})",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.ParentMenu",
+    "Translation": "Hauptmenü",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.IsBackend",
+    "Translation": "Admin-Menü?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Action",
+    "Translation": "Verfahren",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.ControllerTitlePlural",
+    "Translation": "Menüs",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Status",
+    "Translation": "Lage",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Menu.ControllerTitle",
+    "Translation": "Speisekarte",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.OtherLanguages",
+    "Translation": "Andere Sprachen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.DisplayOrder",
+    "Translation": "Rang zu erscheinen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.General",
+    "Translation": "Allgemeines",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Description",
+    "Translation": "Erläuterung",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Translation.ControllerTitlePlural",
+    "Translation": "Übersetzungen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Name",
+    "Translation": "Vorname",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Translation.ControllerTitle",
+    "Translation": "Translation",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Language.isPrimary",
+    "Translation": "Ist es primär?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Language.ControllerTitlePlural",
+    "Translation": "Sprachen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Common.Activity",
+    "Translation": "Ist es aktiv?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Language.isRTL",
+    "Translation": "Rechts nach links?",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Language.Culture",
+    "Translation": "Sprachcode",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Language.FlagIcon",
+    "Translation": "Byron-Symbol",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "Language.ControllerTitle",
+    "Translation": "Sprache",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "CustomVar.ControllerTitlePlural",
+    "Translation": "Benutzerdefinierte Variablen",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "CustomVar.ControllerTitle",
+    "Translation": "Private Variable",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "CustomVar.KeyName",
+    "Translation": "Stichwort",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "CustomVar.GroupName",
+    "Translation": "Gruppenname",
+    "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+  },
+  {
+    "KeyName": "SlideMedia.AffectAllLanguage",
+    "Translation": "Bütün Dillerde Göster",
+    "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374"
+  }
+]

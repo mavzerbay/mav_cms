@@ -1,0 +1,222 @@
+[
+  {
+    "Id": "6565d449-04bf-4fd7-8eda-32924937335e",
+    "DisplayOrder": 0,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/Translate",
+    "Icon": "pi-at",
+    "MenuTrans": [
+      {
+        "Id": "ed28e362-932e-446f-b6f2-d5d5c747cc64",
+        "MenuId": "6565d449-04bf-4fd7-8eda-32924937335e",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Çeviri"
+      }
+    ]
+  },
+  {
+    "Id": "FA440974-E14D-436C-B9E5-19088AD07CCB",
+    "DisplayOrder": 0,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/SupportTicket",
+    "Icon": "pi-question-circle",
+    "MenuTrans": [
+      {
+        "MenuId": "FA440974-E14D-436C-B9E5-19088AD07CCB",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Destek Bildirimi"
+      }
+    ]
+  },
+  {
+    "Id": "8cd7555f-5525-4ac5-97d9-84975fe18bc2",
+    "DisplayOrder": 1,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/Menu",
+    "Icon": "pi-bars",
+    "MenuTrans": [
+      {
+        "Id": "0ef3afd9-369e-464f-8ff4-580f520d9223",
+        "MenuId": "8cd7555f-5525-4ac5-97d9-84975fe18bc2",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Menü"
+      }
+    ]
+  },
+  {
+    "Id": "11f612b8-5675-4fd7-91b5-c7b1f9a9b5c7",
+    "DisplayOrder": 2,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/Language",
+    "Icon": "pi-globe",
+    "MenuTrans": [
+      {
+        "Id": "547f74f7-adbd-4ab1-be05-28715b3c2752",
+        "MenuId": "11f612b8-5675-4fd7-91b5-c7b1f9a9b5c7",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Dil"
+      }
+    ]
+  },
+  {
+    "Id": "9bc0b9eb-7f79-4180-83f3-f5c91cbd8384",
+    "DisplayOrder": 3,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/CustomVar",
+    "Icon": "pi-eject",
+    "MenuTrans": [
+      {
+        "Id": "f7b30381-10b6-4baa-a7c2-0859e1d48aba",
+        "MenuId": "9bc0b9eb-7f79-4180-83f3-f5c91cbd8384",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Özel Değişken"
+      }
+    ]
+  },
+  {
+    "Id": "e4c3d932-2d38-49e0-9296-0fc2af28fa7e",
+    "DisplayOrder": 4,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/Category",
+    "Icon": "pi-sitemap",
+    "MenuTrans": [
+      {
+        "Id": "ed43f364-5547-4887-a18d-25c23662d06c",
+        "MenuId": "e4c3d932-2d38-49e0-9296-0fc2af28fa7e",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Kategori"
+      }
+    ]
+  },
+  {
+    "Id": "377F1F96-DD5D-450D-9137-3D9CF14F6FA5",
+    "DisplayOrder": 5,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/Page",
+    "Icon": "pi-book",
+    "MenuTrans": [
+      {
+        "MenuId": "377F1F96-DD5D-450D-9137-3D9CF14F6FA5",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Sayfa"
+      }
+    ]
+  },
+  {
+    "Id": "9DBC49A8-7AE3-4917-BB8F-6516FBDCDC59",
+    "DisplayOrder": 6,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/Slide",
+    "Icon": "pi-desktop",
+    "MenuTrans": [
+      {
+        "MenuId": "9DBC49A8-7AE3-4917-BB8F-6516FBDCDC59",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Slide"
+      }
+    ]
+  },
+  {
+    "Id": "794BB093-F9EC-4AA4-8425-CB36A676E4B7",
+    "DisplayOrder": 10,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/GeneralSettings",
+    "Icon": "pi-cog",
+    "MenuTrans": [
+      {
+        "MenuId": "794BB093-F9EC-4AA4-8425-CB36A676E4B7",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Genel Ayarlar"
+      }
+    ]
+  },
+  {
+    "Id": "5E42EE78-1CD8-4FB0-AFC6-EAAA28A2F8EC",
+    "DisplayOrder": 7,
+    "Activity": true,
+    "IsBackend": true,
+    "RouterLink": "/User",
+    "Icon": "pi-users",
+    "MenuTrans": [
+      {
+        "MenuId": "5E42EE78-1CD8-4FB0-AFC6-EAAA28A2F8EC",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Kullanıcılar"
+      }
+    ]
+  },
+  {
+    "Id": "5D88D5AD-9F44-4A1A-AE38-3A147E94CFD7",
+    "DisplayOrder": 0,
+    "Activity": true,
+    "IsBackend": false,
+    "RouterLink": "",
+    "MenuPositionId": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+    "MenuTrans": [
+      {
+        "MenuId": "5D88D5AD-9F44-4A1A-AE38-3A147E94CFD7",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Anasayfa"
+      }
+    ]
+  },
+  {
+    "Id": "B4C14BB5-81A3-429C-BF80-7FE1EFA4C49E",
+    "DisplayOrder": 1,
+    "Activity": true,
+    "IsBackend": false,
+    "RouterLink": "/p",
+    "PageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "MenuPositionId": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+    "MenuTrans": [
+      {
+        "MenuId": "B4C14BB5-81A3-429C-BF80-7FE1EFA4C49E",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Ürünler",
+        "Slug": "urunler"
+      }
+    ]
+  },
+  {
+    "Id": "5BA6C807-FC54-4950-B27A-E0BF42D94C15",
+    "DisplayOrder": 2,
+    "Activity": true,
+    "IsBackend": false,
+    "RouterLink": "/p",
+    "PageId": "b570b476-8672-4c33-b611-f4176f829b25",
+    "MenuPositionId": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+    "MenuTrans": [
+      {
+        "MenuId": "5BA6C807-FC54-4950-B27A-E0BF42D94C15",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Hakkımızda",
+        "Slug": "hakkimizda"
+      }
+    ]
+  },
+  {
+    "Id": "A405646C-7241-45D3-95FF-232836218359",
+    "DisplayOrder": 3,
+    "Activity": true,
+    "IsBackend": false,
+    "RouterLink": "/c",
+    "MenuPositionId": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+    "MenuTrans": [
+      {
+        "MenuId": "A405646C-7241-45D3-95FF-232836218359",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "İletişim",
+        "Slug": "iletisim"
+      }
+    ]
+  }
+]

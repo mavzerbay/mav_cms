@@ -1,0 +1,368 @@
+[
+  {
+    "Id": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+    "GroupName": "MenuPosition",
+    "KeyName": "Top",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Üst Menü"
+      },
+      {
+        "CustomVarId": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Top Menu"
+      },
+      {
+        "CustomVarId": "b29ab3fc-1fd4-400f-8cdc-cd6441849e6e",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Hauptmenü"
+      }
+    ]
+  },
+  {
+    "Id": "582df879-dba7-454c-92d0-bc6cb9c2a8f2",
+    "GroupName": "MenuPosition",
+    "KeyName": "BottomLeft",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "582df879-dba7-454c-92d0-bc6cb9c2a8f2",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Alt Sol Menü"
+      },
+      {
+        "CustomVarId": "582df879-dba7-454c-92d0-bc6cb9c2a8f2",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Bottom Left Menu"
+      },
+      {
+        "CustomVarId": "582df879-dba7-454c-92d0-bc6cb9c2a8f2",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Menü unten links"
+      }
+    ]
+  },
+  {
+    "Id": "0A9CA537-FE8F-4625-B8D6-DAC890697718",
+    "GroupName": "MenuPosition",
+    "KeyName": "BottomMiddle",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "0A9CA537-FE8F-4625-B8D6-DAC890697718",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Alt Orta Menü"
+      },
+      {
+        "CustomVarId": "0A9CA537-FE8F-4625-B8D6-DAC890697718",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Bottom Middle Menu"
+      },
+      {
+        "CustomVarId": "0A9CA537-FE8F-4625-B8D6-DAC890697718",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Unteres mittleres Menü"
+      }
+    ]
+  },
+  {
+    "Id": "4C9E6E1D-8E85-418D-A3FC-FD9903902119",
+    "GroupName": "MenuPosition",
+    "KeyName": "BottomRight",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "4C9E6E1D-8E85-418D-A3FC-FD9903902119",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Alt Sağ Menü"
+      },
+      {
+        "CustomVarId": "4C9E6E1D-8E85-418D-A3FC-FD9903902119",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Bottom Right Menu"
+      },
+      {
+        "CustomVarId": "4C9E6E1D-8E85-418D-A3FC-FD9903902119",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Menü unten rechts"
+      }
+    ]
+  },
+  {
+    "Id": "09AD5566-5442-4047-B3B6-EA4B68FAD00E",
+    "GroupName": "SlidePosition",
+    "KeyName": "Top",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "09AD5566-5442-4047-B3B6-EA4B68FAD00E",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Üst"
+      }
+    ]
+  },
+  {
+    "Id": "CF2ED4A9-A0DD-4C2F-A591-B13343DB9880",
+    "GroupName": "SlidePosition",
+    "KeyName": "Bottom",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "CF2ED4A9-A0DD-4C2F-A591-B13343DB9880",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Alt"
+      }
+    ]
+  },
+  {
+    "Id": "A749B9E7-3807-4CF4-9718-1F29128BD1C7",
+    "GroupName": "PageType",
+    "KeyName": "List",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "A749B9E7-3807-4CF4-9718-1F29128BD1C7",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Liste"
+      },
+      {
+        "CustomVarId": "A749B9E7-3807-4CF4-9718-1F29128BD1C7",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "List"
+      },
+      {
+        "CustomVarId": "A749B9E7-3807-4CF4-9718-1F29128BD1C7",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Aufführen"
+      }
+    ]
+  },
+  {
+    "Id": "767EFA83-1C99-45F2-A643-BC5A9511AC59",
+    "GroupName": "PageType",
+    "KeyName": "Grid",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "767EFA83-1C99-45F2-A643-BC5A9511AC59",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Grid"
+      },
+      {
+        "CustomVarId": "767EFA83-1C99-45F2-A643-BC5A9511AC59",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Grid"
+      },
+      {
+        "CustomVarId": "767EFA83-1C99-45F2-A643-BC5A9511AC59",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Netz"
+      }
+    ]
+  },
+  {
+    "Id": "8e7493cc-0aad-40df-87e9-63c5a39549c7",
+    "GroupName": "PageType",
+    "KeyName": "Blog",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "8e7493cc-0aad-40df-87e9-63c5a39549c7",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Blog"
+      },
+      {
+        "CustomVarId": "8e7493cc-0aad-40df-87e9-63c5a39549c7",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Blog"
+      },
+      {
+        "CustomVarId": "8e7493cc-0aad-40df-87e9-63c5a39549c7",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Blog"
+      }
+    ]
+  },
+  {
+    "Id": "f772888e-55d2-49f8-9568-5cfaf231a544",
+    "GroupName": "PageType",
+    "KeyName": "BlogDetail",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "f772888e-55d2-49f8-9568-5cfaf231a544",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Blog Detay"
+      },
+      {
+        "CustomVarId": "f772888e-55d2-49f8-9568-5cfaf231a544",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Blog Detail"
+      },
+      {
+        "CustomVarId": "f772888e-55d2-49f8-9568-5cfaf231a544",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Blog Detail"
+      }
+    ]
+  },
+  {
+    "Id": "0785A934-B085-4F70-BB8A-57496D6FE819",
+    "GroupName": "PageType",
+    "KeyName": "Detail",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "0785A934-B085-4F70-BB8A-57496D6FE819",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Detay"
+      },
+      {
+        "CustomVarId": "0785A934-B085-4F70-BB8A-57496D6FE819",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Detail"
+      },
+      {
+        "CustomVarId": "0785A934-B085-4F70-BB8A-57496D6FE819",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Detail"
+      }
+    ]
+  },
+  {
+    "Id": "03A28FC4-E9DF-46B0-B05C-F87A794D316A",
+    "GroupName": "MailSettings",
+    "KeyName": "SenderMail",
+    "Value": "mail@gmail.com",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "03A28FC4-E9DF-46B0-B05C-F87A794D316A",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Gönderen Maili"
+      }
+    ]
+  },
+  {
+    "Id": "74B50934-3526-4CAD-820D-C7B84E10D113",
+    "GroupName": "MailSettings",
+    "KeyName": "SenderPassword",
+    "Value": "password123",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "74B50934-3526-4CAD-820D-C7B84E10D113",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Gönderen Şifre"
+      }
+    ]
+  },
+  {
+    "Id": "459CDAC3-7C45-4CE6-9371-C2DBDFE69424",
+    "GroupName": "MailSettings",
+    "KeyName": "Host",
+    "Value": "smtp.gmail.com",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "459CDAC3-7C45-4CE6-9371-C2DBDFE69424",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Host"
+      }
+    ]
+  },
+  {
+    "Id": "40522E33-8ED9-4619-95EE-1CFF7D1B77EC",
+    "GroupName": "MailSettings",
+    "KeyName": "From",
+    "Value": "Klasik Merdiven",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "40522E33-8ED9-4619-95EE-1CFF7D1B77EC",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Görünen İsim"
+      }
+    ]
+  },
+  {
+    "Id": "8E68A6BE-6BE4-4E66-9847-CABAE1B3AC6D",
+    "GroupName": "MailSettings",
+    "KeyName": "Port",
+    "Value": "smtp.gmail.com",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "8E68A6BE-6BE4-4E66-9847-CABAE1B3AC6D",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Port"
+      }
+    ]
+  },
+  {
+    "Id": "48E3A0CE-1CE3-444A-9D04-DD2828A63440",
+    "GroupName": "MailSettings",
+    "KeyName": "Ssl",
+    "Value": "False",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "48E3A0CE-1CE3-444A-9D04-DD2828A63440",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "SSL Var Mı"
+      }
+    ]
+  },
+  {
+    "Id": "77DDD5B3-0F72-47B8-80A3-938D0991E6B4",
+    "GroupName": "SupportType",
+    "KeyName": "OfferRequest",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "77DDD5B3-0F72-47B8-80A3-938D0991E6B4",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Teklif İsteği"
+      },
+      {
+        "CustomVarId": "77DDD5B3-0F72-47B8-80A3-938D0991E6B4",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Offer Request"
+      },
+      {
+        "CustomVarId": "77DDD5B3-0F72-47B8-80A3-938D0991E6B4",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Angebotsanfrage"
+      }
+    ]
+  },
+  {
+    "Id": "FA8E7AB5-0244-4638-BE44-D212C381E36D",
+    "GroupName": "SupportType",
+    "KeyName": "Contact",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "FA8E7AB5-0244-4638-BE44-D212C381E36D",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "İletişime Geçilsin"
+      },
+      {
+        "CustomVarId": "FA8E7AB5-0244-4638-BE44-D212C381E36D",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Contact Us"
+      },
+      {
+        "CustomVarId": "FA8E7AB5-0244-4638-BE44-D212C381E36D",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Kontaktiere uns"
+      }
+    ]
+  },
+  {
+    "Id": "DD2CBC32-8C0A-470C-AAA6-2C209BD44BC2",
+    "GroupName": "SupportType",
+    "KeyName": "Ask",
+    "CustomVarTrans": [
+      {
+        "CustomVarId": "DD2CBC32-8C0A-470C-AAA6-2C209BD44BC2",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Bize Sorun"
+      },
+      {
+        "CustomVarId": "DD2CBC32-8C0A-470C-AAA6-2C209BD44BC2",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "Ask Us"
+      },
+      {
+        "CustomVarId": "DD2CBC32-8C0A-470C-AAA6-2C209BD44BC2",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Frag uns"
+      }
+    ]
+  }
+]

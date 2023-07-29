@@ -1,0 +1,53 @@
+﻿using Microsoft.AspNetCore.Http;
+using System;
+
+namespace MAV.Cms.Business.DTOs
+{
+    public class CreateOrUpdateGeneralSettingsTransDTO
+    {
+        public Guid? Id { get; set; }
+        public Guid GeneralSettingsId { get; set; }
+        public Guid LanguageId { get; set; }
+        public string LogoPath { get; set; }
+        public IFormFile LogoFile { get; set; }
+        public string IcoPath { get; set; }
+        public IFormFile IcoFile { get; set; }
+        public string AboutUs { get; set; }
+        #region Home Info Sections 
+        public string Info1Icon { get; set; }
+        public string Info1Title { get; set; }
+        public string Info1Description { get; set; }
+        public string Info2Icon { get; set; }
+        public string Info2Title { get; set; }
+        public string Info2Description { get; set; }
+        public string Info3Icon { get; set; }
+        public string Info3Title { get; set; }
+        public string Info3Description { get; set; }
+        public string Info4Icon { get; set; }
+        public string Info4Title { get; set; }
+        public string Info4Description { get; set; }
+        #endregion
+        /// <summary>
+        /// SEO Alanları Anasayfa-İletişim gibi sabit sayfalar için
+        /// </summary>
+        #region SEO areas for Home-Contact 
+        public string HomeOgTitle { get; set; }
+        public string HomeOgDescription { get; set; }
+        public string HomeOgKeywords { get; set; }
+        /// <summary>
+        /// Use images with a 1.91:1 ratio,1200x630 for optimal clarity across all devices.
+        /// </summary>
+        public string HomeOgImage { get; set; }
+        public IFormFile HomeOgImageFile { get; set; }
+        public string ContactOgTitle { get; set; }
+        public string ContactOgDescription { get; set; }
+        public string ContactOgKeywords { get; set; }
+        /// <summary>
+        /// Use images with a 1.91:1 ratio,1200x630 for optimal clarity across all devices.
+        /// </summary>
+        public string ContactOgImage { get; set; }
+        public IFormFile ContactOgImageFile { get; set; }
+
+        #endregion
+    }
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "Id": "bbee4b09-e39d-46d3-8747-c86d9086961d",
+    "Activity": true,
+    "isHome": true,
+    "Name": "Anasayfa",
+    "SlidePositionId": "09ad5566-5442-4047-b3b6-ea4b68fad00e",
+    "SlideMedias": [
+      {
+        "SlideId": "bbee4b09-e39d-46d3-8747-c86d9086961d",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/bbee4b09-e39d-46d3-8747-c86d9086961d/8036d0ac-4aff-44c8-b090-6d1aa842a8cb.jpg",
+        "Activity": true,
+        "DisplayOrder": 1,
+        "Title": "Test-2",
+        "Summary": "Phasellus et arcu sapien. Mauris nec mauris vitae arcu pharetra varius at a mauris. Vestibulum fringilla purus eu ex euismod luctus."
+      },
+      {
+        "SlideId": "bbee4b09-e39d-46d3-8747-c86d9086961d",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/bbee4b09-e39d-46d3-8747-c86d9086961d/b0b73f2f-3feb-4a02-8084-ecb070ddf191.png",
+        "Activity": true,
+        "DisplayOrder": 0,
+        "Title": "Test-1",
+        "Summary": "Praesent viverra massa est, suscipit sollicitudin neque porta in. In vel sapien at libero volutpat fringilla. Aliquam nec lacinia tellus, et interdum arcu. "
+      },
+      {
+        "SlideId": "bbee4b09-e39d-46d3-8747-c86d9086961d",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/bbee4b09-e39d-46d3-8747-c86d9086961d/2aaafd99-0398-42a1-ace0-3531a7866977.jpg",
+        "Activity": true,
+        "DisplayOrder": 2,
+        "Title": "Test-3",
+        "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut consequat urna. Donec vel urna vitae tellus dapibus consectetur ac vel sem. Nulla a consequat ipsum. Donec faucibus dolor eget arcu auctor, sed blandit libero euismod."
+      }
+    ]
+  },
+  {
+    "Id": "81928c8b-7292-4c64-875e-520b7c7f93fc",
+    "Activity": true,
+    "isHome": false,
+    "Name": "Çelik Merdiven 0 Galeri",
+    "PageId": "9b1d2b73-d540-4307-bd9a-3955aa9f8bae",
+    "SlidePositionId": "09ad5566-5442-4047-b3b6-ea4b68fad00e",
+    "SlideMedias": [
+      {
+        "Id": "8be166f6-055c-4c06-9326-4ac5e8451133",
+        "SlideId": "81928c8b-7292-4c64-875e-520b7c7f93fc",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/81928c8b-7292-4c64-875e-520b7c7f93fc/33bb6185-82cb-4c38-8731-24fe00778fb1.jpg",
+        "Activity": true,
+        "DisplayOrder": 0,
+        "Title": "Çelik Merdiven",
+        "Summary": "Çelik Merdiven"
+      },
+      {
+        "Id": "be40cd66-f476-492b-b344-bcd6ca6fed57",
+        "SlideId": "81928c8b-7292-4c64-875e-520b7c7f93fc",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/81928c8b-7292-4c64-875e-520b7c7f93fc/06e63548-6784-4d0a-959c-01cca9b0ed31.jpg",
+        "Activity": true,
+        "DisplayOrder": 2,
+        "Title": "Çelik Merdiven",
+        "Summary": "Çelik Merdiven"
+      },
+      {
+        "Id": "7f580a4e-d427-43a1-9412-88c9c7dff169",
+        "SlideId": "81928c8b-7292-4c64-875e-520b7c7f93fc",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/81928c8b-7292-4c64-875e-520b7c7f93fc/9cc80e76-c58e-4e40-9b3f-4630468b5f99.jpg",
+        "Activity": true,
+        "DisplayOrder": 1,
+        "Title": "Çelik Merdiven",
+        "Summary": "Çelik Merdiven"
+      }
+    ]
+  },
+  {
+    "Id": "a054bc84-89c5-40a9-ab55-9457ee1ccf35",
+    "Activity": true,
+    "isHome": false,
+    "Name": "Müşteri Yanıtları",
+    "SlidePositionId": "cf2ed4a9-a0dd-4c2f-a591-b13343db9880",
+    "SlideMedias": [
+      {
+        "Id": "8e29003d-1de3-48fe-9321-22cfb5b91641",
+        "SlideId": "a054bc84-89c5-40a9-ab55-9457ee1ccf35",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/a054bc84-89c5-40a9-ab55-9457ee1ccf35/a0b7e79d-70a7-4867-b140-0947ffd316c8.jpg",
+        "Activity": true,
+        "DisplayOrder": 2,
+        "Title": "Eren MAVZER",
+        "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut consequat urna. Donec vel urna vitae tellus dapibus consectetur ac vel sem. Nulla a consequat ipsum. Donec faucibus dolor eget arcu auctor, sed blandit libero euismod."
+      },
+      {
+        "Id": "ba49875d-8ad4-4c91-971d-6f3d98f137bb",
+        "SlideId": "a054bc84-89c5-40a9-ab55-9457ee1ccf35",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/a054bc84-89c5-40a9-ab55-9457ee1ccf35/fe949167-4ac6-4e50-9823-9009c5e46cdf.jpg",
+        "Activity": true,
+        "DisplayOrder": 0,
+        "Title": "Erbay MAVZER",
+        "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut consequat urna. Donec vel urna vitae tellus dapibus consectetur ac vel sem. Nulla a consequat ipsum. Donec faucibus dolor eget arcu auctor, sed blandit libero euismod."
+      },
+      {
+        "Id": "ce16e6c7-7021-4206-b03e-1628dcd47ff8",
+        "SlideId": "a054bc84-89c5-40a9-ab55-9457ee1ccf35",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/a054bc84-89c5-40a9-ab55-9457ee1ccf35/d7d0f540-23a1-467d-936c-9a07806caca0.jpg",
+        "Activity": true,
+        "DisplayOrder": 1,
+        "Title": "Baran MAVZER",
+        "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut consequat urna. Donec vel urna vitae tellus dapibus consectetur ac vel sem. Nulla a consequat ipsum. Donec faucibus dolor eget arcu auctor, sed blandit libero euismod."
+      },
+      {
+        "Id": "cf94ae32-dbaa-4586-9056-889a27075773",
+        "SlideId": "a054bc84-89c5-40a9-ab55-9457ee1ccf35",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "BackgroundImagePath": "/Resources/Slide/a054bc84-89c5-40a9-ab55-9457ee1ccf35/d73319b4-41b2-4d9c-81ae-627de47b3355.jpg",
+        "Activity": true,
+        "DisplayOrder": 3,
+        "Title": "Ali Veli",
+        "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut consequat urna. Donec vel urna vitae tellus dapibus consectetur ac vel sem. Nulla a consequat ipsum. Donec faucibus dolor eget arcu auctor, sed blandit libero euismod."
+      }
+    ]
+  }
+]

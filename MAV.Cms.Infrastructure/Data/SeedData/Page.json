@@ -1,0 +1,330 @@
+[
+  {
+    "Id": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "Activity": true,
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Ürünler",
+        "Slug": "urunler"
+      },
+      {
+        "PageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3",
+        "Name": "Produkte",
+        "Slug": "produkte"
+      },
+      {
+        "PageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Products",
+        "Slug": "products"
+      }
+    ]
+  },
+  {
+    "Id": "4c3959b4-55e0-4fc7-aeda-0d7c7ac46e11",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "4c3959b4-55e0-4fc7-aeda-0d7c7ac46e11",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Çelik Merdiven",
+        "Slug": "celik-merdiven",
+        "BackgroundPath": "/Resources/Page/4c3959b4-55e0-4fc7-aeda-0d7c7ac46e11/b84f9382-ad79-4f06-b2d3-ca62c537fa54.jpg",
+        "OgTitle": "celik-merdiven",
+        "OgDescription": "Çelik Merdiven",
+        "OgImagePath": "/Resources/Page/4c3959b4-55e0-4fc7-aeda-0d7c7ac46e11/2c4d20fd-92fd-47b5-ab86-992b0c185f26.jpg",
+        "OgType": "article"
+      },
+      {
+        "PageId": "4c3959b4-55e0-4fc7-aeda-0d7c7ac46e11",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      },
+      {
+        "PageId": "4c3959b4-55e0-4fc7-aeda-0d7c7ac46e11",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      }
+    ]
+  },
+  {
+    "Id": "4c638555-39ab-4af4-bfcb-5befa6396e8e",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "Id": "5d183d71-4c2c-4538-ac0e-8fb790a5bd54",
+        "PageId": "4c638555-39ab-4af4-bfcb-5befa6396e8e",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Özel Tasarım Merdiven",
+        "Slug": "ozel-tasarim-merdiven",
+        "BackgroundPath": "/Resources/Page/4c638555-39ab-4af4-bfcb-5befa6396e8e/1d637216-0ba6-4629-ad2b-a6741f9accbc.jpg",
+        "OgTitle": "ozel-tasarim-merdiven",
+        "OgDescription": "Özel Tasarım Merdiven",
+        "OgImagePath": "/Resources/Page/4c638555-39ab-4af4-bfcb-5befa6396e8e/86537aee-19cd-43f3-821a-5a7f3be63958.jpg",
+        "OgType": "article"
+      },
+      {
+        "PageId": "4c638555-39ab-4af4-bfcb-5befa6396e8e",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "4c638555-39ab-4af4-bfcb-5befa6396e8e",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      }
+    ]
+  },
+  {
+    "Id": "5d31ffe0-358d-4f48-b9dd-971f931d93cf",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "5d31ffe0-358d-4f48-b9dd-971f931d93cf",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "U Dönüşlü Merdiven",
+        "Slug": "u-donuslu-merdiven",
+        "BackgroundPath": "/Resources/Page/5d31ffe0-358d-4f48-b9dd-971f931d93cf/32b974a6-e2d0-44a3-8a21-b1332fac429a.jpg",
+        "OgTitle": "u-donuslu-merdiven",
+        "OgDescription": "U Dönüşlü Merdiven",
+        "OgImagePath": "/Resources/Page/5d31ffe0-358d-4f48-b9dd-971f931d93cf/58eab9eb-d9cd-4617-b947-e0c5d201f82c.jpg",
+        "OgType": "article"
+      },
+      {
+        "PageId": "5d31ffe0-358d-4f48-b9dd-971f931d93cf",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "5d31ffe0-358d-4f48-b9dd-971f931d93cf",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      }
+    ]
+  },
+  {
+    "Id": "7cfa7271-cbde-44a9-9a3e-0a3f25e46cbc",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "7cfa7271-cbde-44a9-9a3e-0a3f25e46cbc",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      },
+      {
+        "PageId": "7cfa7271-cbde-44a9-9a3e-0a3f25e46cbc",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "7cfa7271-cbde-44a9-9a3e-0a3f25e46cbc",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Fıçı Merdiven",
+        "Slug": "fici-merdiven",
+        "BackgroundPath": "/Resources/Page/7cfa7271-cbde-44a9-9a3e-0a3f25e46cbc/8b71bdff-14a7-4c85-882a-f022b4841f97.jpg",
+        "OgTitle": "fici-merdiven",
+        "OgDescription": "Fıçı Merdiven",
+        "OgImagePath": "/Resources/Page/7cfa7271-cbde-44a9-9a3e-0a3f25e46cbc/52b8f976-8836-4bb1-a5ff-4371a7b55cf5.jpg",
+        "OgType": "article"
+      }
+    ]
+  },
+  {
+    "Id": "83a5eb17-b376-436d-99c0-6769bfa5a299",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "83a5eb17-b376-436d-99c0-6769bfa5a299",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "83a5eb17-b376-436d-99c0-6769bfa5a299",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      },
+      {
+        "PageId": "83a5eb17-b376-436d-99c0-6769bfa5a299",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "L Dönüşlü Merdiven",
+        "Slug": "l-donuslu-merdiven",
+        "BackgroundPath": "/Resources/Page/83a5eb17-b376-436d-99c0-6769bfa5a299/9dcd73ff-20c7-413a-85d5-3f249c3707e9.jpg",
+        "OgTitle": "l-donuslu-merdiven",
+        "OgDescription": "L Dönüşlü Merdiven",
+        "OgImagePath": "/Resources/Page/83a5eb17-b376-436d-99c0-6769bfa5a299/901a8cc6-3842-4b90-8097-bfb872737677.jpg",
+        "OgType": "article"
+      }
+    ]
+  },
+  {
+    "Id": "9b1d2b73-d540-4307-bd9a-3955aa9f8bae",
+    "Activity": true,
+    "ParentPageId": "4c3959b4-55e0-4fc7-aeda-0d7c7ac46e11",
+    "PageTypeId": "0785a934-b085-4f70-bb8a-57496d6fe819",
+    "PageTrans": [
+      {
+        "PageId": "9b1d2b73-d540-4307-bd9a-3955aa9f8bae",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      },
+      {
+        "PageId": "9b1d2b73-d540-4307-bd9a-3955aa9f8bae",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "9b1d2b73-d540-4307-bd9a-3955aa9f8bae",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Çelik Merdiven 0",
+        "Slug": "celik-merdiven-0",
+        "Content": "<p>Çelik Merdiven</p>",
+        "BackgroundPath": "/Resources/Page/9b1d2b73-d540-4307-bd9a-3955aa9f8bae/c02871e7-65ed-4169-9829-364a82b3a46b.jpg",
+        "OgTitle": "celik-merdiven-0",
+        "OgDescription": "Çelik Merdiven 0",
+        "OgImagePath": "/Resources/Page/9b1d2b73-d540-4307-bd9a-3955aa9f8bae/f30dadd1-9253-43a8-bef5-86f9e374eaae.jpg",
+        "OgType": "article"
+      }
+    ]
+  },
+  {
+    "Id": "a9e953ed-2f57-4759-8cf8-094832411d49",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "a9e953ed-2f57-4759-8cf8-094832411d49",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      },
+      {
+        "PageId": "a9e953ed-2f57-4759-8cf8-094832411d49",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "a9e953ed-2f57-4759-8cf8-094832411d49",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Döner Merdiven",
+        "Slug": "doner-merdiven",
+        "BackgroundPath": "/Resources/Page/a9e953ed-2f57-4759-8cf8-094832411d49/6dc418aa-13f4-41bd-ae9b-31ae2b2f3061.jpg",
+        "OgTitle": "doner-merdiven",
+        "OgDescription": "Döner Merdiven",
+        "OgImagePath": "/Resources/Page/a9e953ed-2f57-4759-8cf8-094832411d49/86b01234-3f32-442a-bc31-ac9ff44ee509.jpg",
+        "OgType": "article"
+      }
+    ]
+  },
+  {
+    "Id": "b570b476-8672-4c33-b611-f4176f829b25",
+    "Activity": true,
+    "PageTypeId": "0785a934-b085-4f70-bb8a-57496d6fe819",
+    "PageTrans": [
+      {
+        "PageId": "b570b476-8672-4c33-b611-f4176f829b25",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d",
+        "Name": "About Us",
+        "Slug": "about-us"
+      },
+      {
+        "PageId": "b570b476-8672-4c33-b611-f4176f829b25",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "b570b476-8672-4c33-b611-f4176f829b25",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Hakkımızda",
+        "Slug": "hakkimizda",
+        "Summary": "Hakkımızda İçeriği",
+        "Content": "<p><strong>1952 yılında kurulan firmamız günümüze kadar aralıksız ahşap sektöründe hizmet vermektedir.</strong></p><p><strong>Bu hizmetler 1982 yılına kadar abajur, masif aksesuar, iskandinav masif mobilya ürünleri yapmıştır. Bu dönem itibariyle ahşap merdiven imalatına başlayan firmamız bir yıl içerisinde diğer tüm yapmış olduğu ürünlerin imalatına son vererek piyasadaki talepler doğrultusunda sadece ahşap merdiven imalatını gerçekleştirme kararı almıştır.</strong></p><p><br></p><p><strong>1983 yılında sadece ahşap merdiven yapan ilk ve tek firma olma özelliğini kazanmıştır. Bu yıldan itibaren masif işleme bilgi ve tecrübesini sadece ahşap merdiven konusunda kullanan firmamız gelişen teknoloji ve imkanları da arkasına alarak yapı sektörünün en kritik ürünü olan ahşap merdiven modellerine ve tekniklerine öncülük etmiştir.</strong></p><p><br></p><p><strong>Firmamız halen İstanbul ataşehir de 600 m2 kapalı alan içerisinde gelişmiş makine, ekipmanları ve 49 yıllık tecrübe ile siz değerli müşterilerimizden gelecek taleplere göre hazırlayacağımız ürünler ile yaşam standartlarını yükseltmeye ve keyifli yaşam alanları yapmaya devam edecektir.</strong></p>",
+        "HeaderPath": "https://localhost:5001/Resources/Page/b570b476-8672-4c33-b611-f4176f829b25/68efbb03-aa26-4f58-8309-f374f4548fd5.png",
+        "BackgroundPath": "https://localhost:5001/Resources/Page/b570b476-8672-4c33-b611-f4176f829b25/e8b93a8b-3e1d-4793-b3f4-265928c01775.png",
+        "OgTitle": "Hakkımızda",
+        "OgDescription": "hakkimizda",
+        "OgImagePath": "https://localhost:5001/Resources/Page/b570b476-8672-4c33-b611-f4176f829b25/93492f4b-2a20-46d0-a33d-979f778bc7e8.png",
+        "OgType": "about"
+      }
+    ]
+  },
+  {
+    "Id": "b65b01f8-7e7d-49e2-a069-fb98043db0cf",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "b65b01f8-7e7d-49e2-a069-fb98043db0cf",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      },
+      {
+        "PageId": "b65b01f8-7e7d-49e2-a069-fb98043db0cf",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "b65b01f8-7e7d-49e2-a069-fb98043db0cf",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Beton Üzeri Merdiven",
+        "Slug": "beton-uzeri-merdiven",
+        "BackgroundPath": "/Resources/Page/b65b01f8-7e7d-49e2-a069-fb98043db0cf/4281a851-43ad-402e-8c52-0bd3ee0edb15.jpg",
+        "OgTitle": "beton-uzeri-merdiven",
+        "OgDescription": "Beton Üzeri Merdiven",
+        "OgImagePath": "/Resources/Page/b65b01f8-7e7d-49e2-a069-fb98043db0cf/5dc754fb-3236-4571-ab0a-c11732cc0cbe.jpg",
+        "OgType": "article"
+      }
+    ]
+  },
+  {
+    "Id": "e8b48d05-a6f4-4e41-a635-e534d715b4a2",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "e8b48d05-a6f4-4e41-a635-e534d715b4a2",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      },
+      {
+        "PageId": "e8b48d05-a6f4-4e41-a635-e534d715b4a2",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "G Merdiven",
+        "Slug": "g-merdiven",
+        "BackgroundPath": "/Resources/Page/e8b48d05-a6f4-4e41-a635-e534d715b4a2/3da2eb33-d28a-4224-851f-54689e95c36d.jpg",
+        "OgTitle": "g-merdiven",
+        "OgDescription": "G Merdiven",
+        "OgImagePath": "/Resources/Page/e8b48d05-a6f4-4e41-a635-e534d715b4a2/d2958ce7-fc04-4de7-a943-6c4a3ffeccfd.jpg",
+        "OgType": "article"
+      },
+      {
+        "PageId": "e8b48d05-a6f4-4e41-a635-e534d715b4a2",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      }
+    ]
+  },
+  {
+    "Id": "f53600b5-a503-41cf-904a-79f4c1249522",
+    "Activity": true,
+    "ParentPageId": "a7c740a1-a7a0-41f4-bc5e-cfc1258ad507",
+    "PageTypeId": "767efa83-1c99-45f2-a643-bc5a9511ac59",
+    "PageTrans": [
+      {
+        "PageId": "f53600b5-a503-41cf-904a-79f4c1249522",
+        "LanguageId": "08d9a936-de58-4ee7-804c-55b1456e2374",
+        "Name": "Düz Merdiven",
+        "Slug": "duz-merdiven",
+        "BackgroundPath": "/Resources/Page/f53600b5-a503-41cf-904a-79f4c1249522/5adc00bf-5d41-473a-91c5-35ea449cbd9b.jpg",
+        "OgTitle": "duz-merdiven",
+        "OgDescription": "Düz Merdiven",
+        "OgImagePath": "/Resources/Page/f53600b5-a503-41cf-904a-79f4c1249522/bc580b04-8186-46e3-b2c3-2a4ed3386813.jpg",
+        "OgType": "article"
+      },
+      {
+        "PageId": "f53600b5-a503-41cf-904a-79f4c1249522",
+        "LanguageId": "08d9b75c-ad3d-495e-8e8d-440e12e2695d"
+      },
+      {
+        "PageId": "f53600b5-a503-41cf-904a-79f4c1249522",
+        "LanguageId": "08d9b767-3a86-4931-8921-73ef160f6ff3"
+      }
+    ]
+  }
+]
